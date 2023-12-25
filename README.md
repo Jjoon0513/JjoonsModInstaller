@@ -1,1 +1,1 @@
-Mod Installer
+# Jjoon's Minecraft Mod Installer
