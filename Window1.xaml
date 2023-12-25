@@ -1,0 +1,18 @@
+﻿<Window x:Class="modinsteller.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:modinsteller"
+        mc:Ignorable="d"
+        Title="다운로드" Height="150" Width="300" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="87*"/>
+            <RowDefinition Height="47*"/>
+        </Grid.RowDefinitions>
+        <ProgressBar x:Name="ProgressBar" HorizontalAlignment="Center" Width="268" Margin="0,76,0,0" RenderTransformOrigin="0.498,0.595" Height="18" Grid.RowSpan="2" VerticalAlignment="Top"/>
+        <Label x:Name="StatusLabel" Content="다운로드 시작..." HorizontalAlignment="Center" Margin="0,41,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center"/>
+
+    </Grid>
+</Window>

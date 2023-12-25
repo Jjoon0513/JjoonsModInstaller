@@ -1,0 +1,19 @@
+﻿<Window x:Class="modinsteller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:modinsteller"
+        mc:Ignorable="d"
+        Title="Jjoon Mod Insteller" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid Height="434" VerticalAlignment="Top">
+        <Label x:Name="title" Margin="0,10,0,0" Content="Jjoon's mod Inteller" Height="67" Width="280" RenderTransformOrigin="-0.511,0.097" VerticalAlignment="Top" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="22"/>
+        <Button Content="찾아보기" Height="33" Margin="0,0,80,285" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="63" Click="OnBrowseButtonClick" />
+        <Rectangle Height="37" Margin="80,114,176,0" Stroke="Black" VerticalAlignment="Top"/>
+        <Image HorizontalAlignment="Left" Margin="514,0,0,0" VerticalAlignment="Top" Source="/image0.png" Height="100" Width="100"/>
+        <Label x:Name="lootrabel" Content="먼저 마인크래프트 mods 파일을 지정해 주십시오" HorizontalAlignment="Left" Height="35" Margin="80,116,0,0" VerticalAlignment="Top" Width="544" VerticalContentAlignment="Center"/>
+        <Label Content="대상파일" HorizontalAlignment="Left" Height="28" Margin="80,86,0,0" VerticalAlignment="Top" Width="68" FontWeight="Bold" FontSize="14"/>
+        <Button x:Name="verchackbutton" Content="버전확인" HorizontalAlignment="Center" Margin="0,251,0,0" VerticalAlignment="Top" Click="ver_check_click" Height="89" Width="280" FontWeight="Bold" FontSize="22"/>
+
+    </Grid>
+</Window>
