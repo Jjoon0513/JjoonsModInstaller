@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+r0fdkxITTb5bK1PQaYoQpjJ69xcTbZKo5MlgFsrXYDwVsDYdRcndXLfRItqvn6rVRAoFmkAeS6l44LJc6SUVQ==",
+  "dgSpecHash": "bFwUhFxE9vh2aCyE/S54Cw5wsfCRqpWhH34jazyG9Ls9uWRFCXA0J9nDuJJxkf4OJOsjgf+GXJhp1wZCAU+kXw==",
   "success": true,
-  "projectFilePath": "D:\\mod insteller\\modinsteller\\modinsteller\\modinsteller.csproj",
+  "projectFilePath": "D:\\mod insteller\\modinsteller\\modinsteller\\modinstaller.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ijjun\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
     "C:\\Users\\ijjun\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",

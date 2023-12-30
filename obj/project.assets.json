@@ -4845,9 +4845,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mod insteller\\modinsteller\\modinsteller\\modinsteller.csproj",
-      "projectName": "modinsteller",
-      "projectPath": "D:\\mod insteller\\modinsteller\\modinsteller\\modinsteller.csproj",
+      "projectUniqueName": "D:\\mod insteller\\modinsteller\\modinsteller\\modinstaller.csproj",
+      "projectName": "modinstaller",
+      "projectPath": "D:\\mod insteller\\modinsteller\\modinsteller\\modinstaller.csproj",
       "packagesPath": "C:\\Users\\ijjun\\.nuget\\packages\\",
       "outputPath": "D:\\mod insteller\\modinsteller\\modinsteller\\obj\\",
       "projectStyle": "PackageReference",

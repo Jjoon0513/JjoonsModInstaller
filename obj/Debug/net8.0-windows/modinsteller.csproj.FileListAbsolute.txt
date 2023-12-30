@@ -103,3 +103,4 @@ D:\mod insteller\modinsteller\modinsteller\obj\Debug\net8.0-windows\modinsteller
 D:\mod insteller\modinsteller\modinsteller\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 D:\mod insteller\modinsteller\modinsteller\obj\Debug\net8.0-windows\Window1.g.cs
 D:\mod insteller\modinsteller\modinsteller\obj\Debug\net8.0-windows\Window1.baml
+D:\mod insteller\modinsteller\modinsteller\obj\Debug\net8.0-windows\modinsteller.sourcelink.json

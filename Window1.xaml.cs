@@ -23,12 +23,14 @@ namespace modinsteller
 
             // 백그라운드에서 다운로드 및 압축 해제 수행
             DownloadAndExtractInBackground();
+
         }
 
         private async void DownloadAndExtractInBackground()
         {
             try
             {
+
                 string tempFolderPath = Path.Combine(Path.GetTempPath(), Guid.NewGuid().ToString());
 
                 // WebClient 생성
@@ -46,8 +48,8 @@ namespace modinsteller
 
                 // 다운로드 및 압축 해제 완료 메시지
                 MessageBox.Show("다운로드 및 압축 해제가 완료되었습니다.");
-                string appDataPath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
                 
+
             }
             catch (Exception ex)
             {
